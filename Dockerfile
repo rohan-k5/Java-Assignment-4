@@ -1,6 +1,6 @@
 FROM openjdk:latest
 
-           VOLUME /tmp 
+           VOLUME /tmp
 
            EXPOSE 8080
 
